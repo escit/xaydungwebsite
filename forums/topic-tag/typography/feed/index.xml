@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Typography &#8211; Xây dựng website thương mại điện tử</title>
+	<atom:link href="https://escit.github.io/xaydungwebsite/forums/topic-tag/typography/feed/" rel="self" type="application/rss+xml" />
+	<link>https://escit.github.io/xaydungwebsite</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 Jul 2020 20:05:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Typography -&gt; H6 font not works</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/typography-h6-font-not-works/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 20:05:08 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/?post_type=topic&#038;p=5033</guid>
+
+					<description><![CDATA[Hi, in theme settings, there is an added Typography section. However, the option not works when I change the font type for H6 headers. Could you please advise? Thanks]]></description>
+										<content:encoded><![CDATA[<p>Hi,</p>
+<p>in theme settings, there is an added Typography section. However, the option not works when I change the font type for H6 headers. Could you please advise?</p>
+<p>Thanks</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

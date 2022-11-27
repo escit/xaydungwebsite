@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Error &#8211; Xây dựng website thương mại điện tử</title>
+	<atom:link href="https://escit.github.io/xaydungwebsite/forums/topic-tag/error/feed/" rel="self" type="application/rss+xml" />
+	<link>https://escit.github.io/xaydungwebsite</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Sep 2020 20:37:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Some Questions about the theme</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/some-questions-about-the-theme/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:37:54 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/some-questions-about-the-theme/</guid>
+
+					<description><![CDATA[1) Hello there. I updated the comment. Apart from that, there is another problem. When I press the letter ‘ö’, the cursor goes to the automatic search section. I will also send the sample video. sample link: https://mumsema.com.tr/forums/konu/yataga-meni-bulasmasi/ 2) search button only searches articles. I want him to search on topics. You said you would [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>1) Hello there. I updated the comment. Apart from that, there is another problem. When I press the letter ‘ö’, the cursor goes to the automatic search section. I will also send the sample video.</p>
+<p>sample link: https://mumsema.com.tr/forums/konu/yataga-meni-bulasmasi/</p>
+<p>2) search button only searches articles. I want him to search on topics.</p>
+<p>You said you would fix them 1 week ago. My forum is active now and I try to inform people with 20000 topics. These issues are constantly complaining. losing user. I have to give 1 star to solve my problem.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mobile Alignment + Call to Action Button</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/mobile-alignment-call-to-action-button/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:34:30 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/mobile-alignment-call-to-action-button/</guid>
+
+					<description><![CDATA[Hello, There are three items we need assistance with with the mobile header. Photos are being attached for each item. 1. Align logo with menu in main header. Current header has logo higher than menu, we want to have both aligned. See attached photo. 2. Need to add &#8220;Action Button&#8221; to menu on mobile version. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Hello, </p>
+<p>There are three items we need assistance with with the mobile header. Photos are being attached for each item.</p>
+<p>1. Align logo with menu in main header. Current header has logo higher than menu, we want to have both aligned. See attached photo.</p>
+<p>2. Need to add &#8220;Action Button&#8221; to menu on mobile version. </p>
+<p>3. The padding for the menu on the sticky header is shifted all the way to the right. Need to add padding to the right of the menu to shift it over to the left. </p>
+<p>Here is the current .css that we have. Please assist.</p>
+<p>Thanks</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Theme Setting &#038; Https rewrite</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/theme-setting-https-rewrite/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:21:22 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/theme-setting-https-rewrite/</guid>
+
+					<description><![CDATA[Theme Settings: 1. Some theme settings do not affect the active theme, which is the Mobile App: &#8211; In other menus (except homepage), the background menu still in white color &#8211; Homepage logos still using the default image. &#8211; Looks like most settings only affect for Digital Agency theme. 2. If we enable HTTPS (Cloudflare [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Theme Settings:</p>
+<p>1. Some theme settings do not affect the active theme, which is the Mobile App:</p>
+<p>&#8211; In other menus (except homepage), the background menu still in white color</p>
+<p>&#8211; Homepage logos still using the default image.</p>
+<p>&#8211; Looks like most settings only affect for Digital Agency theme.</p>
+<p>2. If we enable HTTPS (Cloudflare https), Mixed content error appears at the Theme Settings menu.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Can not edit the homepage</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/can-not-edit-the-homepage/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:10:18 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/?post_type=topic&#038;p=5240</guid>
+
+					<description><![CDATA[Hello I can not modify any title, logo, and text here. Would you take a look? And why don&#8217;t you make category feature with the doc? I got this. I love the tab widget https://docly.guru/docs/docly-documentation/elements/tab/ However, for each new individual doc, I need to build the page again. It takes a lot of time. Is there a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Hello</p>
+<p>I can not modify any title, logo, and text here. Would you take a look?</p>
+<p>And why don&#8217;t you make category feature with the doc?</p>
+<p>I got this. I love the tab widget <a href="https://docly.guru/docs/docly-documentation/elements/tab/" rel="nofollow">https://docly.guru/docs/docly-documentation/elements/tab/</a></p>
+<p>However, for each new individual doc, I need to build the page again. It takes a lot of time. Is there a solution to copy the existing doc at a new draft as Yoast Duplicate Post does? This plugin does not work on docs <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Thanks</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Unable to Configure Certain Things</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/unable-to-configure-certain-things/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 20:01:05 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/?post_type=topic&#038;p=5024</guid>
+
+					<description><![CDATA[I need help on a few things please for the Rogan WordPress Theme I purchased. The site in reference is whichoneapp.com. Here are the issues I&#8217;m running into: 1. Is there a way, at all, to have the app screenshot that I see on whichoneapp.com show up for the mobile version as well? That&#8217;s a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I need help on a few things please for the Rogan WordPress Theme I purchased. The site in reference is whichoneapp.com. Here are the issues I&#8217;m running into:</p>
+<p>1. Is there a way, at all, to have the app screenshot that I see on whichoneapp.com show up for the mobile version as well? That&#8217;s a big part of the appeal of the site &#8212; to be able to see the actual screenshot.</p>
+<p>2. There&#8217;s a small white line that runs down the right hand side of the website on the desktop version only that I can&#8217;t seem to get rid of. Not sure what to do about it. Any idea?</p>
+<p>3. On the <strong>mobile</strong> site, when I hit the menu button, the background of the menu is a dark blue color and I can&#8217;t seem to change it at all. I&#8217;ve tried under Theme Settings &gt; Menu &gt; Menu Background Color <strong>and</strong> Background Color but neither seem to be working. I am able to change the link color etc. on both desktop and mobile but not the background color of the menu.</p>
+<p>4. Is there anyway to get rid of the menu items on the 404 page?</p>
+<p>Overall, I really like the site, but there are a lot of little bugs and issues that have made a bit furstrating, as well as the fact that some things are editable in very unituitive areas. That being said, I&#8217;m hoping you can help me on the above to help alleviate some of these issues. I look forward to hearing back and thank you for your time!</p>
+<p>Kind Regards</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

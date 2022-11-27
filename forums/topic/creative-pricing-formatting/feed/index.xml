@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rss version="2.0"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+
+			>
+
+	<channel>
+
+		<title>Creative Pricing Formatting &#8211; Xây dựng website thương mại điện tử</title>
+		<atom:link href="https://escit.github.io/xaydungwebsite/forums/topic/creative-pricing-formatting/feed/" rel="self" type="application/rss+xml" />
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/creative-pricing-formatting/feed/</link>
+		<description></description>
+		<lastBuildDate>Sun, 27 Nov 2022 02:12:29 +0000</lastBuildDate>
+		<generator>https://bbpress.org/?v=2.6.9</generator>
+		<language>en-US</language>
+
+		
+														
+					
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/creative-pricing-formatting/#post-5028</guid>
+					<title><![CDATA[Creative Pricing Formatting]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/creative-pricing-formatting/#post-5028</link>
+					<pubDate>Thu, 30 Jul 2020 20:02:08 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>We are trying to duplicate the pricing on the template, however, our formatting is off. We can&#8217;t get the &#8220;Annual&#8221; &amp; &#8220;Monthly&#8221; buttons to be aligned like the example, and there are also check marks next to them that we don&#8217;t know how to remove.</p>
+<p>Please see attached photos of how our pricing currently looks, versus how we want it to look.</p>
+<p>Thank you.</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+					
+		
+	</channel>
+	</rss>
+

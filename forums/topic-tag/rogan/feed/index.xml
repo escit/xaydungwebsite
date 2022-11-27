@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rogan &#8211; Xây dựng website thương mại điện tử</title>
+	<atom:link href="https://escit.github.io/xaydungwebsite/forums/topic-tag/rogan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://escit.github.io/xaydungwebsite</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 Jul 2020 20:05:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Typography -&gt; H6 font not works</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/typography-h6-font-not-works/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 20:05:08 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/?post_type=topic&#038;p=5033</guid>
+
+					<description><![CDATA[Hi, in theme settings, there is an added Typography section. However, the option not works when I change the font type for H6 headers. Could you please advise? Thanks]]></description>
+										<content:encoded><![CDATA[<p>Hi,</p>
+<p>in theme settings, there is an added Typography section. However, the option not works when I change the font type for H6 headers. Could you please advise?</p>
+<p>Thanks</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Unable to Configure Certain Things</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/unable-to-configure-certain-things/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 20:01:05 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/?post_type=topic&#038;p=5024</guid>
+
+					<description><![CDATA[I need help on a few things please for the Rogan WordPress Theme I purchased. The site in reference is whichoneapp.com. Here are the issues I&#8217;m running into: 1. Is there a way, at all, to have the app screenshot that I see on whichoneapp.com show up for the mobile version as well? That&#8217;s a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>I need help on a few things please for the Rogan WordPress Theme I purchased. The site in reference is whichoneapp.com. Here are the issues I&#8217;m running into:</p>
+<p>1. Is there a way, at all, to have the app screenshot that I see on whichoneapp.com show up for the mobile version as well? That&#8217;s a big part of the appeal of the site &#8212; to be able to see the actual screenshot.</p>
+<p>2. There&#8217;s a small white line that runs down the right hand side of the website on the desktop version only that I can&#8217;t seem to get rid of. Not sure what to do about it. Any idea?</p>
+<p>3. On the <strong>mobile</strong> site, when I hit the menu button, the background of the menu is a dark blue color and I can&#8217;t seem to change it at all. I&#8217;ve tried under Theme Settings &gt; Menu &gt; Menu Background Color <strong>and</strong> Background Color but neither seem to be working. I am able to change the link color etc. on both desktop and mobile but not the background color of the menu.</p>
+<p>4. Is there anyway to get rid of the menu items on the 404 page?</p>
+<p>Overall, I really like the site, but there are a lot of little bugs and issues that have made a bit furstrating, as well as the fact that some things are editable in very unituitive areas. That being said, I&#8217;m hoping you can help me on the above to help alleviate some of these issues. I look forward to hearing back and thank you for your time!</p>
+<p>Kind Regards</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

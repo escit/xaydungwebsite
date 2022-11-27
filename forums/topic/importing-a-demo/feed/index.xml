@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rss version="2.0"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+
+			>
+
+	<channel>
+
+		<title>Importing a demo &#8211; Xây dựng website thương mại điện tử</title>
+		<atom:link href="https://escit.github.io/xaydungwebsite/forums/topic/importing-a-demo/feed/" rel="self" type="application/rss+xml" />
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/importing-a-demo/feed/</link>
+		<description></description>
+		<lastBuildDate>Sun, 27 Nov 2022 02:11:22 +0000</lastBuildDate>
+		<generator>https://bbpress.org/?v=2.6.9</generator>
+		<language>en-US</language>
+
+		
+														
+					
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/importing-a-demo/#post-5026</guid>
+					<title><![CDATA[Importing a demo]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/importing-a-demo/#post-5026</link>
+					<pubDate>Thu, 30 Jul 2020 20:01:48 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>Hi ,</p>
+<p>I couldn&#8217;t import a demo page using one click import , even the import manually doesn&#8217;t work and the pages doesn&#8217;t show widgets</p>
+<p>please advise.</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+			
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/importing-a-demo/#post-5263</guid>
+					<title><![CDATA[Reply To: Importing a demo]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/importing-a-demo/#post-5263</link>
+					<pubDate>Mon, 21 Sep 2020 20:59:37 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>Hi,</p>
+<p>Follow this documentation to import the demo as like this page. After successfully importing the demo content, you will find all the pages in your WordPress admin dashboard’s Pages menu. Find your desired homepage there and start editing this page with Elementor.</p>
+<p>Also, you can set your Homepage demo as the Frontpage of your website from Settings &gt; Reading</p>
+<p>Thanks</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+			
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/importing-a-demo/#post-5269</guid>
+					<title><![CDATA[Reply To: Importing a demo]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/importing-a-demo/#post-5269</link>
+					<pubDate>Thu, 24 Sep 2020 18:34:58 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>Hi,</p>
+<p>Deactivate and delete the old version of the plugin from the Plugins &gt; Installed Plugins list. Then install the plugin from Appearance &gt; Instal Plugins.</p>
+<p>Read more on the doc <a href="https://is.gd/SsDdBu" rel="nofollow">here</a></p>
+<p>Thanks</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+			
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/importing-a-demo/#post-5270</guid>
+					<title><![CDATA[Reply To: Importing a demo]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/importing-a-demo/#post-5270</link>
+					<pubDate>Thu, 24 Sep 2020 18:47:32 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>That&#8217;s mean that some of the WooCommerce template files are out of date. You will get the updated WooCommerce template files in the next update of the theme.</p>
+<p>Thanks</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+					
+		
+	</channel>
+	</rss>
+

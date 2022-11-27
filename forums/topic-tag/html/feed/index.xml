@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HTML &#8211; Xây dựng website thương mại điện tử</title>
+	<atom:link href="https://escit.github.io/xaydungwebsite/forums/topic-tag/html/feed/" rel="self" type="application/rss+xml" />
+	<link>https://escit.github.io/xaydungwebsite</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Sep 2020 20:27:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Incorrect Zip</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/incorrect-zip/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:27:07 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/incorrect-zip/</guid>
+
+					<description><![CDATA[Hey, I downloaded the ZIP, which I&#8217;ve attached to this ticket, and it appears to be the WordPress version and not the HTML5 version. Are you able to send me the HTML5 version? I suspect the wrong download as been attached to the listing so you may wish to adjust that too. Thank you, James]]></description>
+										<content:encoded><![CDATA[<p>Hey,</p>
+<p>I downloaded the ZIP, which I&#8217;ve attached to this ticket, and it appears to be the WordPress version and not the HTML5 version. Are you able to send me the HTML5 version? I suspect the wrong download as been attached to the listing so you may wish to adjust that too.</p>
+<p>Thank you,</p>
+<p>James</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How compile SCSS</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/how-compile-scss/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:19:46 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/how-compile-scss/</guid>
+
+					<description><![CDATA[Hello, We try to use the SCSS files, have you some script o package.json config to compile the scss files? Thanks]]></description>
+										<content:encoded><![CDATA[<p>Hello,</p>
+<p>We try to use the SCSS files, have you some script o package.json config to compile the scss files?</p>
+<p>Thanks</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How rewrite bootstrap colors</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/how-rewrite-bootstrap-colors/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:18:28 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/how-rewrite-bootstrap-colors/</guid>
+
+					<description><![CDATA[Hello, I need to redefine a color palette of the theme. What is the best practice to do that, I want void broken your design. Please, share the screenshot.]]></description>
+										<content:encoded><![CDATA[<p>Hello,<br />
+I need to redefine a color palette of the theme.<br />
+What is the best practice to do that, I want void broken your design. Please, share the screenshot. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ACF &#8211; Xây dựng website thương mại điện tử</title>
+	<atom:link href="https://escit.github.io/xaydungwebsite/forums/topic-tag/acf/feed/" rel="self" type="application/rss+xml" />
+	<link>https://escit.github.io/xaydungwebsite</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Sep 2020 20:23:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Advanced Custom Fields PRO</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/advanced-custom-fields-pro/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:23:07 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/advanced-custom-fields-pro/</guid>
+
+					<description><![CDATA[Hi dear support team, Advanced Custom Fields PRO requires update but it failed when I try from wp-admin Aggiornamento del plugin Advanced Custom Fields PRO (1/1) C&#8217;è stato un errore durante l&#8217;aggiornamento di Advanced Custom Fields PRO: Pacchetto di aggiornamento non disponibile. Thanks]]></description>
+										<content:encoded><![CDATA[<p>Hi dear support team,</p>
+<p>Advanced Custom Fields PRO requires update but it failed when I try from wp-admin</p>
+<p>Aggiornamento del plugin Advanced Custom Fields PRO (1/1)<br />
+C&#8217;è stato un errore durante l&#8217;aggiornamento di Advanced Custom Fields PRO: Pacchetto di aggiornamento non disponibile.</p>
+<p>Thanks</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Seeking &#8211; Xây dựng website thương mại điện tử</title>
+	<atom:link href="https://escit.github.io/xaydungwebsite/forums/topic-tag/seeking/feed/" rel="self" type="application/rss+xml" />
+	<link>https://escit.github.io/xaydungwebsite</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Sep 2020 20:37:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Some Questions about the theme</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/some-questions-about-the-theme/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:37:54 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/some-questions-about-the-theme/</guid>
+
+					<description><![CDATA[1) Hello there. I updated the comment. Apart from that, there is another problem. When I press the letter ‘ö’, the cursor goes to the automatic search section. I will also send the sample video. sample link: https://mumsema.com.tr/forums/konu/yataga-meni-bulasmasi/ 2) search button only searches articles. I want him to search on topics. You said you would [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>1) Hello there. I updated the comment. Apart from that, there is another problem. When I press the letter ‘ö’, the cursor goes to the automatic search section. I will also send the sample video.</p>
+<p>sample link: https://mumsema.com.tr/forums/konu/yataga-meni-bulasmasi/</p>
+<p>2) search button only searches articles. I want him to search on topics.</p>
+<p>You said you would fix them 1 week ago. My forum is active now and I try to inform people with 20000 topics. These issues are constantly complaining. losing user. I have to give 1 star to solve my problem.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Does this theme require Elementor</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/does-this-theme-require-elementor/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:36:55 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/does-this-theme-require-elementor/</guid>
+
+					<description><![CDATA[Hi. Does this theme require Elementor or any page builder plugin to run? Also, can the loading icon (that displays between page loads) be disabled? This theme looks great, although seems to run pretty slow on the demo site. Thanks]]></description>
+										<content:encoded><![CDATA[<p>Hi. </p>
+<p>Does this theme require Elementor or any page builder plugin to run? Also, can the loading icon (that displays between page loads) be disabled? This theme looks great, although seems to run pretty slow on the demo site.</p>
+<p>Thanks</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mobile Alignment + Call to Action Button</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/mobile-alignment-call-to-action-button/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:34:30 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/mobile-alignment-call-to-action-button/</guid>
+
+					<description><![CDATA[Hello, There are three items we need assistance with with the mobile header. Photos are being attached for each item. 1. Align logo with menu in main header. Current header has logo higher than menu, we want to have both aligned. See attached photo. 2. Need to add &#8220;Action Button&#8221; to menu on mobile version. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Hello, </p>
+<p>There are three items we need assistance with with the mobile header. Photos are being attached for each item.</p>
+<p>1. Align logo with menu in main header. Current header has logo higher than menu, we want to have both aligned. See attached photo.</p>
+<p>2. Need to add &#8220;Action Button&#8221; to menu on mobile version. </p>
+<p>3. The padding for the menu on the sticky header is shifted all the way to the right. Need to add padding to the right of the menu to shift it over to the left. </p>
+<p>Here is the current .css that we have. Please assist.</p>
+<p>Thanks</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to change the URLs of the posts or articles</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/how-to-change-the-urls-of-the-posts-or-articles/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:32:41 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/how-to-change-the-urls-of-the-posts-or-articles/</guid>
+
+					<description><![CDATA[Hello, I purchased this theme, but how to change the URLs of the posts/articles? All articles have this /docs/docly-documentation/elements/ in the links. When I try to edit, it does not let me change. I do not want the word ‘docs’ or ‘docly-documentation’ in my links. please tell, how do I fix that. thanks. Thanks]]></description>
+										<content:encoded><![CDATA[<p>Hello, </p>
+<p>I purchased this theme, but how to change the URLs of the posts/articles? All articles have this /docs/docly-documentation/elements/ in the links.<br />
+When I try to edit, it does not let me change. I do not want the word ‘docs’ or ‘docly-documentation’ in my links. please tell, how do I fix that. thanks.</p>
+<p>Thanks</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Advanced Custom Fields PRO</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/advanced-custom-fields-pro/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:23:07 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/advanced-custom-fields-pro/</guid>
+
+					<description><![CDATA[Hi dear support team, Advanced Custom Fields PRO requires update but it failed when I try from wp-admin Aggiornamento del plugin Advanced Custom Fields PRO (1/1) C&#8217;è stato un errore durante l&#8217;aggiornamento di Advanced Custom Fields PRO: Pacchetto di aggiornamento non disponibile. Thanks]]></description>
+										<content:encoded><![CDATA[<p>Hi dear support team,</p>
+<p>Advanced Custom Fields PRO requires update but it failed when I try from wp-admin</p>
+<p>Aggiornamento del plugin Advanced Custom Fields PRO (1/1)<br />
+C&#8217;è stato un errore durante l&#8217;aggiornamento di Advanced Custom Fields PRO: Pacchetto di aggiornamento non disponibile.</p>
+<p>Thanks</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How rewrite bootstrap colors</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/how-rewrite-bootstrap-colors/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:18:28 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/how-rewrite-bootstrap-colors/</guid>
+
+					<description><![CDATA[Hello, I need to redefine a color palette of the theme. What is the best practice to do that, I want void broken your design. Please, share the screenshot.]]></description>
+										<content:encoded><![CDATA[<p>Hello,<br />
+I need to redefine a color palette of the theme.<br />
+What is the best practice to do that, I want void broken your design. Please, share the screenshot. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>One page template</title>
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/one-page-template/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2020 20:16:01 +0000</pubDate>
+				<guid isPermaLink="false">https://wordpress-theme.spider-themes.net/docly/forums/topic/one-page-template/</guid>
+
+					<description><![CDATA[Hello, where can I find the one-page document template? I updated the theme, however I cant seem to find the onepage documentation template]]></description>
+										<content:encoded><![CDATA[<p>Hello, where can I find the one-page document template? </p>
+<p>I updated the theme, however I cant seem to find the onepage documentation template</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

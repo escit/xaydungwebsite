@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rss version="2.0"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+
+			>
+
+	<channel>
+
+		<title>Xây dựng website thương mại điện tử &#187; All Posts</title>
+		<atom:link href="https://escit.github.io/xaydungwebsite/forums/forum/approach-html-template/feed/" rel="self" type="application/rss+xml" />
+		<link>https://escit.github.io/xaydungwebsite/forums/forum/approach-html-template/feed/</link>
+		<description></description>
+		<lastBuildDate>Sun, 27 Nov 2022 02:10:18 +0000</lastBuildDate>
+		<generator>https://bbpress.org/?v=2.6.9</generator>
+		<language>en-US</language>
+
+		
+		
+					
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/how-compile-scss/#post-5431</guid>
+					<title><![CDATA[Reply To: How compile SCSS]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/how-compile-scss/#post-5431</link>
+					<pubDate>Thu, 21 Oct 2021 16:12:09 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>Test</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+			
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/ac998/#post-5343</guid>
+					<title><![CDATA[ac998]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/ac998/#post-5343</link>
+					<pubDate>Tue, 15 Jun 2021 07:40:26 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>ac998test</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+			
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/how-compile-scss/#post-5265</guid>
+					<title><![CDATA[Reply To: How compile SCSS]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/how-compile-scss/#post-5265</link>
+					<pubDate>Mon, 21 Sep 2020 21:05:13 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>Hi,</p>
+<p>In this case, you can change the color variable values from the scss/_variables.scss file. There you will find the pre-defined colors defined in variables. See the screenshot below-</p>
+<p>Note: you must have to use a SCSS compiler to compile the SCSS file to CSS.</p>
+<p>Thanks</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+			
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/incorrect-zip/#post-5250</guid>
+					<title><![CDATA[Incorrect Zip]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/incorrect-zip/#post-5250</link>
+					<pubDate>Mon, 21 Sep 2020 20:27:07 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>Hey,</p>
+<p>I downloaded the ZIP, which I&#8217;ve attached to this ticket, and it appears to be the WordPress version and not the HTML5 version. Are you able to send me the HTML5 version? I suspect the wrong download as been attached to the listing so you may wish to adjust that too.</p>
+<p>Thank you,</p>
+<p>James</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+			
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/how-compile-scss/#post-5247</guid>
+					<title><![CDATA[How compile SCSS]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/how-compile-scss/#post-5247</link>
+					<pubDate>Mon, 21 Sep 2020 20:19:46 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>Hello,</p>
+<p>We try to use the SCSS files, have you some script o package.json config to compile the scss files?</p>
+<p>Thanks</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+			
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/how-rewrite-bootstrap-colors/#post-5246</guid>
+					<title><![CDATA[How rewrite bootstrap colors]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/how-rewrite-bootstrap-colors/#post-5246</link>
+					<pubDate>Mon, 21 Sep 2020 20:18:28 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>Hello,<br />
+I need to redefine a color palette of the theme.<br />
+What is the best practice to do that, I want void broken your design. Please, share the screenshot. </p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+					
+		
+	</channel>
+	</rss>
+

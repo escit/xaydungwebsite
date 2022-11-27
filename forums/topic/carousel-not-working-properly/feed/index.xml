@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rss version="2.0"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+
+			>
+
+	<channel>
+
+		<title>Carousel not working properly &#8211; Xây dựng website thương mại điện tử</title>
+		<atom:link href="https://escit.github.io/xaydungwebsite/forums/topic/carousel-not-working-properly/feed/" rel="self" type="application/rss+xml" />
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/carousel-not-working-properly/feed/</link>
+		<description></description>
+		<lastBuildDate>Sun, 27 Nov 2022 02:12:30 +0000</lastBuildDate>
+		<generator>https://bbpress.org/?v=2.6.9</generator>
+		<language>en-US</language>
+
+		
+														
+					
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/carousel-not-working-properly/#post-5031</guid>
+					<title><![CDATA[Carousel not working properly]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/carousel-not-working-properly/#post-5031</link>
+					<pubDate>Thu, 30 Jul 2020 20:03:11 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>I copied all the theme asset and added the whole intex.html on my index.php file. Most of the part works perfectly but bottom area blog carousel it not working, even the Testimonials is broken also.</p>
+<p>I have plans to move asset to sub directory, can you please tell me which JS and CSS files needed to be updated to for that?</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+					
+		
+	</channel>
+	</rss>
+

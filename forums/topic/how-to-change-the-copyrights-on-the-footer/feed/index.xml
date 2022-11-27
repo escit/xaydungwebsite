@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rss version="2.0"
+		xmlns:content="http://purl.org/rss/1.0/modules/content/"
+		xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:atom="http://www.w3.org/2005/Atom"
+
+			>
+
+	<channel>
+
+		<title>How to change the copyrights on the footer &#8211; Xây dựng website thương mại điện tử</title>
+		<atom:link href="https://escit.github.io/xaydungwebsite/forums/topic/how-to-change-the-copyrights-on-the-footer/feed/" rel="self" type="application/rss+xml" />
+		<link>https://escit.github.io/xaydungwebsite/forums/topic/how-to-change-the-copyrights-on-the-footer/feed/</link>
+		<description></description>
+		<lastBuildDate>Sun, 27 Nov 2022 02:11:20 +0000</lastBuildDate>
+		<generator>https://bbpress.org/?v=2.6.9</generator>
+		<language>en-US</language>
+
+		
+														
+					
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/how-to-change-the-copyrights-on-the-footer/#post-5242</guid>
+					<title><![CDATA[How to change the copyrights on the footer]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/how-to-change-the-copyrights-on-the-footer/#post-5242</link>
+					<pubDate>Mon, 21 Sep 2020 20:11:22 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>Hello,</p>
+<p>I’ve a quick question, How can I change the copyrights on the footer? since I’m not able to find the part where I control such thing 🙁</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+			
+				<item>
+					<guid>https://escit.github.io/xaydungwebsite/forums/topic/how-to-change-the-copyrights-on-the-footer/#post-5266</guid>
+					<title><![CDATA[Reply To: How to change the copyrights on the footer]]></title>
+					<link>https://escit.github.io/xaydungwebsite/forums/topic/how-to-change-the-copyrights-on-the-footer/#post-5266</link>
+					<pubDate>Mon, 21 Sep 2020 21:05:45 +0000</pubDate>
+					<dc:creator>admin</dc:creator>
+
+					<description>
+						<![CDATA[
+						<p>Hi,</p>
+<p>You can change the copyright text from Theme Settings &gt; Footer &gt; Footer Bottom. </p>
+<p>Thanks</p>
+						]]>
+					</description>
+
+					
+					
+				</item>
+
+					
+		
+	</channel>
+	</rss>
+
